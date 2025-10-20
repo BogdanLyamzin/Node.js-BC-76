@@ -1,0 +1,1 @@
+export const categoryList = ["work", "friends", "family", "other"];
